@@ -3,11 +3,6 @@
 Agile class check
 
 Name Shubham Shubham Student id: 100010273
-
-# agile_nov_23
-
-Agile class check
-
 eliezerryngnga 100011859
 Rishitha Balla 100010367
 R Sherwin Richard
